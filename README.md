@@ -1,0 +1,2 @@
+# newApplication
+cordova application
